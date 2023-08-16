@@ -19,10 +19,8 @@ function App() {
       setInput(evaluate(input));
     }else {
       alert('Por favor ingrese valores para realizar los cálculos');
-    }
-    
+    }    
   }
-
 
   return (
     <div className='App'>
